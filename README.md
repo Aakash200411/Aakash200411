@@ -7,6 +7,7 @@ Aspiring Data Scientist & an AIML enthusiast
 * ❓  Ask me anything related to Data Analytics
 * 🧠  I'm learning NLP & LLMs
 * 🤝  I'm open to collaborating on ML & DS related projects
+* 🌐  [My Portfolio](https://aakash200411.github.io/Portfolio/)
 
 ### Skills
 
