@@ -1,13 +1,33 @@
-Aspiring Data Scientist & an AIML enthusiast
---------------------------------------------
+# Hey there! 👋 I'm Aakash Lodha
 
-* 🌍  I'm based in Mumbai,India
-* 👨‍🎓  3rd Year B.Tech Artificial Intelligence & Data Science
-* ✉️  You can contact me at [aakashlodha2004@gmail.com](mailto:aakashlodha2004@gmail.com)
-* ❓  Ask me anything related to Data Analytics
-* 🧠  I'm learning NLP & LLMs
-* 🤝  I'm open to collaborating on ML & DS related projects
-* 🌐  [My Portfolio](https://aakash200411.github.io/Portfolio/)
+### 🚀 B.Tech | AI & Data Science | Data Analytics | NLP | ML Enthusiast
+
+---
+
+🎓 **About Me**  
+I'm a 3rd-year B.Tech student specializing in **Artificial Intelligence and Data Science** from Mumbai, India. With a strong passion for **Data Analytics** and **Machine Learning**, I'm always exploring how AI can create real-world impact.
+
+🧠 Currently diving deep into:  
+- Natural Language Processing (NLP)  
+- Large Language Models (LLMs)  
+- Machine Learning Projects & End-to-End Pipelines  
+
+💬 I'm happy to help or collaborate on:  
+- Data Science & ML Projects  
+- Visualizations & Dashboards  
+- Model Building & Evaluation  
+- Open Source contributions in AIML
+
+📫 Let's Connect!  
+- Email: [aakashlodha2004@gmail.com](mailto:aakashlodha2004@gmail.com)  
+- Portfolio: [aakash200411.github.io/Portfolio](https://aakash200411.github.io/Portfolio/)
+
+---
+
+🔍 **What I’m Exploring Right Now:**  
+- Applying ML models on real datasets 📊  
+- Time Series Analysis, Regression, and Forecasting ⏱️  
+- Building chatbots & intelligent systems 🤖
 
 ### Skills
 
