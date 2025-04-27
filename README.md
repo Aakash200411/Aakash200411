@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Aakash Lodha
 
-### 🚀 B.Tech | AI & Data Science | Data Analytics | NLP | ML Enthusiast
+### 🚀 B.Tech | AI & Data Science | Data Analytics | NLP | ML Enthusiast | Software Developer
 
 ---
 
@@ -10,13 +10,15 @@ I'm a 3rd-year B.Tech student specializing in **Artificial Intelligence and Data
 🧠 Currently diving deep into:  
 - Natural Language Processing (NLP)  
 - Large Language Models (LLMs)  
-- Machine Learning Projects & End-to-End Pipelines  
+- Machine Learning Projects & End-to-End Pipelines
+- React Development and building interactive UIs
 
 💬 I'm happy to help or collaborate on:  
 - Data Science & ML Projects  
 - Visualizations & Dashboards  
 - Model Building & Evaluation  
 - Open Source contributions in AIML
+- Software Development (React, Full-Stack Web Development)
 
 📫 Let's Connect!  
 - Email: [aakashlodha2004@gmail.com](mailto:aakashlodha2004@gmail.com)  
@@ -28,6 +30,7 @@ I'm a 3rd-year B.Tech student specializing in **Artificial Intelligence and Data
 - Applying ML models on real datasets 📊  
 - Time Series Analysis, Regression, and Forecasting ⏱️  
 - Building chatbots & intelligent systems 🤖
+- React-based web development 🌐
 
 ### Skills
 
