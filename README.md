@@ -90,9 +90,9 @@ I'm a 3rd-year B.Tech student specializing in **Artificial Intelligence and Data
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="60" height="60" alt="Node.js" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" height="60" alt="Express" style="background:white; padding:8px; border-radius:8px;" />
-  </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="60" height="60" alt="Express" style="background:white; padding:8px; border-radius:8px;" />
+</a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="60" height="60" alt="MongoDB" />
   </a>
